@@ -5,5 +5,5 @@ This respitory will hold my assignments
  # About Me
 ## My Interesets
 ## Websites I Recommend
-- [Google] ( https;//www.google.com) I find Google indespensable for researching all kinds of information
-- [Ted Talk] ( https;//www.tedtalk.com)
+- [Google]( https;//www.google.com) I find Google indespensable for researching all kinds of information
+- [Ted Talk]( https;//www.tedtalk.com)
